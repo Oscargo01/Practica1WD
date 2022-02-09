@@ -157,10 +157,13 @@ body{
     padding-left: 0;
   }
   
-  footer .footer-left {
+  footer .footer-up {
     justify-self: left;
   }
   
+  footer .bottom-footer {
+    justify-self: left;
+  }
   footer .footer-right {
     justify-self: right;
   }
