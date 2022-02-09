@@ -159,10 +159,7 @@ body{
   
   footer .footer-left {
     justify-self: left;
-  }
-  footer .bottom-footer {
-    justify-self: left;
-  }  
+  } 
   footer .footer-right {
     justify-self: right;
   }
